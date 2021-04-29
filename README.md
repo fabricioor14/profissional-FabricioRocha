@@ -1,2 +1,2 @@
 # profissional-FabricioRocha
-Será um Repositório de um site profissional
+Será um Repositório de um site currículo profissional
